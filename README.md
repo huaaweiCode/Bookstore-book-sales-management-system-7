@@ -1,10 +1,5 @@
 # 书店图书销售管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**书店7** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -56,12 +51,3 @@
 ![订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141431398.jpg)
 
 ![图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141431373.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**书店7** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
