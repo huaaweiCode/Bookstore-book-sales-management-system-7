@@ -51,3 +51,8 @@
 ![订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141431398.jpg)
 
 ![图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141431373.jpg)
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：书店
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
